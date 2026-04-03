@@ -14,15 +14,13 @@ $mahasiswa = [
         "nama" => "Moch. Rahadian Amantjik",
         "nim" => "13421084",
         "email" => "rahamantjik@gmail.com",
-        "jurusan" => "Teknik Industri",
-        "gambar" => "raha.jpg"
+        "jurusan" => "Teknik Industri"
     ],
     [
         "nama" => "Nurcholis Madjid",
         "nim" => "13421081",
         "email" => "ajim@gmail.com",
         "jurusan" => "Teknik Industri",
-        "gambar" => "raha.jpg"
     ]
 ];
 ?>

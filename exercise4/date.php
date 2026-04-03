@@ -22,11 +22,7 @@
     // echo strlen("Rahadian") --> untuk menghitung panjang string
     // echo strcmp("a","b"); --> membandingkan dua buah string
     // print_r(explode("-","Moch-Rahadian-Amantjik",3)); --> memecah string menjadi array
-
-$new = htmlspecialchars("<a href='test'>Test</a>", ENT_QUOTES);
-echo $new; // &lt;a href=&#039;test&#039;&gt;Test&lt;/a&gt;
-
-    // --> mencegah dari hacker
+    // echo htmlspecialchars("<a href='test'>Test</a>", ENT_QUOTES) --> mencegah dari hacker
 
     // utility
     // var_dump() --> untuk mencetak isi dari sebuah variable
